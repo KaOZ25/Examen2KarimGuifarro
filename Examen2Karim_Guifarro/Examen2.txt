@@ -1,0 +1,16 @@
+Nota1: un dia de simulacion de 9 am a 5 pm equivale a 480 segundos reales
+nota2: la transaccion que las personas haran se asigna en random al momento de la llegada
+
+promedio de personas llegan por minuto a la agencia[2]
+minutos que el guardia espera para pasar personas adentro[4]
+numero de personas que el guardia deja pasar cada vez[6]
+
+tiempo en minutos que tarda el cajero en atender un deposito[3]
+tiempo en minutos que tarda el cajero en atender un retiro[4]
+tiempo en minutos una persona en servicio al cliente[5]
+
+candidad maxima de clientes en la fila de depositos[28]
+candidad maxima de clientes en la fila de retiros[35]
+candidad maxima en la fila servicio al cliente[50]
+
+nota: si una de las filas esta llena al maximo entonces el guardia no deja pasar a a ninguna persona de la fila de entrada
